@@ -1,0 +1,24 @@
+DIST_TYPE,DIST_GROUP,DIST_FIRE
+Biological,Biological/Chemical,Disturbance-Not Fire
+Chemical,Biological/Chemical,Disturbance-Not Fire
+Herbicide,Biological/Chemical,Disturbance-Not Fire
+Insecticide,Biological/Chemical,Disturbance-Not Fire
+Development,Development,Disturbance-Not Fire
+Clearcut,Harvest,Disturbance-Not Fire
+Harvest,Harvest,Disturbance-Not Fire
+Disease,Insects/Disease,Disturbance-Not Fire
+Insects,Insects/Disease,Disturbance-Not Fire
+Insects/Disease,Insects/Disease,Disturbance-Not Fire
+Mastication,Mechanical,Disturbance-Not Fire
+Other Mechanical,Mechanical,Disturbance-Not Fire
+No Disturbance,No Disturbance,No Disturbance
+Prescribed Fire,Prescribed Fire,Disturbance-Fire
+Thinning,Thinning,Disturbance-Not Fire
+Unknown,Unknown,Disturbance-Not Fire
+Unknown/Fire Doubtful,Unknown,Disturbance-Not Fire
+Unknown/Possibly Fire,Unknown,Disturbance-Not Fire
+Weather,Weather,Disturbance-Not Fire
+Wildland Fire,Wildfire,Disturbance-Fire
+Wildfire,Wildfire,Disturbance-Fire
+Wildland Fire Use,Wildfire,Disturbance-Fire
+Fire,Wildfire,Disturbance-Fire
